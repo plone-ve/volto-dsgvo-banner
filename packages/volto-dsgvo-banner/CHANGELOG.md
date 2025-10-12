@@ -8,6 +8,12 @@
 
 <!-- towncrier release notes start -->
 
+## 3.0.1 (2025-10-12)
+
+### Bugfix
+
+- Don't force volto-light-theme to be enabled as an addon. @davisagli 
+
 ## 3.0.0 (2025-08-26)
 
 ### Breaking
