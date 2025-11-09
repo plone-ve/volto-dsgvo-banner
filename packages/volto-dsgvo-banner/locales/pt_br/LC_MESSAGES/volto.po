@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. Default: "Adjust privacy settings"
+#: components/Banner/Banner
+msgid "Adjust privacy settings"
+msgstr "Ajustar configurações de privacidade"
+
+#. Default: "Agree to all cookies"
+#: components/Banner/Banner
+msgid "Agree to all cookies"
+msgstr "Aceitar todos os cookies"
+
+#. Default: "Allow and Continue"
+#: components/IfConfirm/IfConfirm
+msgid "Allow and Continue"
+msgstr "Aceitar e continuar"
+
+#. Default: "Back"
+#: components/Banner/Banner
+msgid "Back"
+msgstr "Voltar"
+
+#. Default: "Customize Privacy Settings"
+#: components/IfConfirm/IfConfirm
+msgid "Customize Privacy Settings"
+msgstr "Customizar Configurações de Privacidade"
+
+#. Default: "Privacy Notice"
+#: components/Banner/Banner
+msgid "Privacy Notice"
+msgstr "Aviso de Privacidade"
+
+#. Default: "Privacy Notice Change"
+#: components/Banner/Banner
+msgid "Privacy Notice Change"
+msgstr "Alteração do Aviso de Privacidade"
+
+#. Default: "Privacy Policy"
+#: components/Banner/Banner
+msgid "Privacy Policy"
+msgstr "Políticas de Privacidade"
+
+#. Default: "Reject all cookies"
+#: components/Banner/Banner
+msgid "Reject all cookies"
+msgstr "Rejeitar todos os cookies"
+
+#. Default: "Save"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Save"
+msgstr "Salvar"
+
+#. Default: "Technically required"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Technically required"
+msgstr "Tecnicamente requerido"
+
+#. Default: "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+#: components/Banner/Banner
+msgid "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+msgstr "Para dar à você a melhor experiência de usuário possível, utilizamos cookies em nosso site. Cookies necessários para o funcionamento do site são configurados automaticamente. Você também pode permitir outros cookies. Você pode {agree_all_cookies} ou {adjust_privacy_settings}."
+
+#. Default: "Tracking"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Tracking"
+msgstr "Tracking"
+
+#. Default: "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+#: components/Banner/Banner
+msgid "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+msgstr "Você pode encontrar mais informações sobre os cookies usados e como pode revogar seu consentimento posteriormente em nosso"
+
+#. Default: "adjust the privacy settings"
+#: components/Banner/Banner
+msgid "adjust the privacy settings"
+msgstr "ajustar as configurações de privacidade"
+
+#. Default: "agree to all cookies"
+#: components/Banner/Banner
+msgid "agree to all cookies"
+msgstr "aceitar todos os cookies"
+
+#. Default: "This content is provided by a third-party service. To view it, please allow cookies for {module} in your privacy settings."
+#: components/IfConfirm/IfConfirm
+msgid "dsgvoOverlayMessage"
+msgstr "Você não consegue ver este conteúdo neste momento pois selecionou desabilitar os cookies de {module} nas configurações de privacidade."

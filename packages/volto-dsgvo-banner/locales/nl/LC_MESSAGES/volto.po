@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PlonenPOT-Creation-Date: 2017-04-27T19:30:59.079Z\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2017-02-28 08:52+0100\n"
+"Last-Translator: Dutch <plone-i18n@lists.sf.net>\n"
+"Language: nl\n"
+"Language-Team: Dutch <plone-i18n@lists.sf.net>\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Language-Code: nl\n"
+"Language-Name: Nederlands\n"
+"Preferred-Encodings: utf-8\n"
+
+#. Default: "Adjust privacy settings"
+#: components/Banner/Banner
+msgid "Adjust privacy settings"
+msgstr "Privacy-instellingen aanpassen"
+
+#. Default: "Agree to all cookies"
+#: components/Banner/Banner
+msgid "Agree to all cookies"
+msgstr "Alle cookies toestaan"
+
+#. Default: "Allow and Continue"
+#: components/IfConfirm/IfConfirm
+msgid "Allow and Continue"
+msgstr "Akkoord en doorgaan"
+
+#. Default: "Back"
+#: components/Banner/Banner
+msgid "Back"
+msgstr "Terug"
+
+#. Default: "Customize Privacy Settings"
+#: components/IfConfirm/IfConfirm
+msgid "Customize Privacy Settings"
+msgstr "Privacy-instellingen aanpassen"
+
+#. Default: "Privacy Notice"
+#: components/Banner/Banner
+msgid "Privacy Notice"
+msgstr "Privacyverklaring"
+
+#. Default: "Privacy Notice Change"
+#: components/Banner/Banner
+msgid "Privacy Notice Change"
+msgstr "Privacy-instellingen"
+
+#. Default: "Privacy Policy"
+#: components/Banner/Banner
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#. Default: "Reject all cookies"
+#: components/Banner/Banner
+msgid "Reject all cookies"
+msgstr "Weiger alle cookies"
+
+#. Default: "Save"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Save"
+msgstr "Opslaan"
+
+#. Default: "Technically required"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Technically required"
+msgstr "Technisch vereist"
+
+#. Default: "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+#: components/Banner/Banner
+msgid "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+msgstr "Om u de best mogelijke gebruikerservaring te bieden, gebruiken we cookies op onze website. Cookies die nodig zijn voor de werking van de site worden automatisch ingesteld. U kunt ook andere cookies toestaan. U kunt {agree_all_cookies} of {adjust_privacy_settings}."
+
+#. Default: "Tracking"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Tracking"
+msgstr "Tracking"
+
+#. Default: "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+#: components/Banner/Banner
+msgid "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+msgstr "Meer informatie over de gebruikte cookies en hoe u uw toestemming vervolgens kunt intrekken, vindt u in ons"
+
+#. Default: "adjust the privacy settings"
+#: components/Banner/Banner
+msgid "adjust the privacy settings"
+msgstr "de privacy-instellingen aanpassen"
+
+#. Default: "agree to all cookies"
+#: components/Banner/Banner
+msgid "agree to all cookies"
+msgstr "alle cookies toestaan"
+
+#. Default: "This content is provided by a third-party service. To view it, please allow cookies for {module} in your privacy settings."
+#: components/IfConfirm/IfConfirm
+msgid "dsgvoOverlayMessage"
+msgstr "U kunt deze inhoud op dit moment niet bekijken omdat u ervoor heeft gekozen om {module} cookies uit te schakelen in de privacy instellingen."

@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plone\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-09 08:00+0200\n"
+"PO-Revision-Date: 2025-05-09 08:00+0200\n"
+"Last-Translator: Roger Boixader Güell <rogerboixaderguell@gmail.com>\n"
+"Language: ca\n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Preferred-Encodings: utf-8\n"
+"MIME-Version: 1.0\n"
+"Language-Code: ca\n"
+"Language-Name: Català\n"
+
+#. Default: "Adjust privacy settings"
+#: components/Banner/Banner
+msgid "Adjust privacy settings"
+msgstr "Ajustar la configuració de privacitat"
+
+#. Default: "Agree to all cookies"
+#: components/Banner/Banner
+msgid "Agree to all cookies"
+msgstr "Acceptar totes les galetes"
+
+#. Default: "Allow and Continue"
+#: components/IfConfirm/IfConfirm
+msgid "Allow and Continue"
+msgstr "Acceptar i continuar"
+
+#. Default: "Back"
+#: components/Banner/Banner
+msgid "Back"
+msgstr "Enrere"
+
+#. Default: "Customize Privacy Settings"
+#: components/IfConfirm/IfConfirm
+msgid "Customize Privacy Settings"
+msgstr "Personalitzar la configuració de privacitat"
+
+#. Default: "Privacy Notice"
+#: components/Banner/Banner
+msgid "Privacy Notice"
+msgstr "Avís de Privacitat"
+
+#. Default: "Privacy Notice Change"
+#: components/Banner/Banner
+msgid "Privacy Notice Change"
+msgstr "Canvi en l'avís de privacitat"
+
+#. Default: "Privacy Policy"
+#: components/Banner/Banner
+msgid "Privacy Policy"
+msgstr "Política de Privacitat"
+
+#. Default: "Reject all cookies"
+#: components/Banner/Banner
+msgid "Reject all cookies"
+msgstr "Rebutjar totes les galetes"
+
+#. Default: "Save"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Save"
+msgstr "Desar"
+
+#. Default: "Technically required"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Technically required"
+msgstr "Requerit tècnicament"
+
+#. Default: "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+#: components/Banner/Banner
+msgid "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+msgstr "Per oferir-vos la millor experiència d'usuari possible, utilitzem galetes al nostre lloc web. Les galetes necessàries per al funcionament del lloc es configuren automàticament. També podeu permetre altres galetes. Podeu {agree_all_cookies} o {adjust_privacy_settings}."
+
+#. Default: "Tracking"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Tracking"
+msgstr "Seguiment"
+
+#. Default: "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+#: components/Banner/Banner
+msgid "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+msgstr "Podeu trobar més informació sobre les galetes utilitzades i com podeu revocar el vostre consentiment posteriorment en la nostra"
+
+#. Default: "adjust the privacy settings"
+#: components/Banner/Banner
+msgid "adjust the privacy settings"
+msgstr "ajustar la configuració de privacitat"
+
+#. Default: "agree to all cookies"
+#: components/Banner/Banner
+msgid "agree to all cookies"
+msgstr "acceptar totes les galetes"
+
+#. Default: "This content is provided by a third-party service. To view it, please allow cookies for {module} in your privacy settings."
+#: components/IfConfirm/IfConfirm
+msgid "dsgvoOverlayMessage"
+msgstr "No podeu veure aquest contingut en aquest moment perquè heu seleccionat desactivar les galetes de {module} a la configuració de privacitat."

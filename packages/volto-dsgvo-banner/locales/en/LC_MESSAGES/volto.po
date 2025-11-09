@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. Default: "Adjust privacy settings"
+#: components/Banner/Banner
+msgid "Adjust privacy settings"
+msgstr ""
+
+#. Default: "Agree to all cookies"
+#: components/Banner/Banner
+msgid "Agree to all cookies"
+msgstr ""
+
+#. Default: "Allow and Continue"
+#: components/IfConfirm/IfConfirm
+msgid "Allow and Continue"
+msgstr ""
+
+#. Default: "Back"
+#: components/Banner/Banner
+msgid "Back"
+msgstr ""
+
+#. Default: "Customize Privacy Settings"
+#: components/IfConfirm/IfConfirm
+msgid "Customize Privacy Settings"
+msgstr ""
+
+#. Default: "Privacy Notice"
+#: components/Banner/Banner
+msgid "Privacy Notice"
+msgstr ""
+
+#. Default: "Privacy Notice Change"
+#: components/Banner/Banner
+msgid "Privacy Notice Change"
+msgstr ""
+
+#. Default: "Privacy Policy"
+#: components/Banner/Banner
+msgid "Privacy Policy"
+msgstr ""
+
+#. Default: "Reject all cookies"
+#: components/Banner/Banner
+msgid "Reject all cookies"
+msgstr ""
+
+#. Default: "Save"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Save"
+msgstr ""
+
+#. Default: "Technically required"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Technically required"
+msgstr ""
+
+#. Default: "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+#: components/Banner/Banner
+msgid "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+msgstr ""
+
+#. Default: "Tracking"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Tracking"
+msgstr ""
+
+#. Default: "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+#: components/Banner/Banner
+msgid "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+msgstr ""
+
+#. Default: "adjust the privacy settings"
+#: components/Banner/Banner
+msgid "adjust the privacy settings"
+msgstr ""
+
+#. Default: "agree to all cookies"
+#: components/Banner/Banner
+msgid "agree to all cookies"
+msgstr ""
+
+#. Default: "This content is provided by a third-party service. To view it, please allow cookies for {module} in your privacy settings."
+#: components/IfConfirm/IfConfirm
+msgid "dsgvoOverlayMessage"
+msgstr ""

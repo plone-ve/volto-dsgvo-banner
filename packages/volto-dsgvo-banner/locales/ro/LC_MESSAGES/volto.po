@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. Default: "Adjust privacy settings"
+#: components/Banner/Banner
+msgid "Adjust privacy settings"
+msgstr "Ajustați setările de confidențialitate"
+
+#. Default: "Agree to all cookies"
+#: components/Banner/Banner
+msgid "Agree to all cookies"
+msgstr "De acord cu toate cookie-urile"
+
+#. Default: "Allow and Continue"
+#: components/IfConfirm/IfConfirm
+msgid "Allow and Continue"
+msgstr ""
+
+#. Default: "Back"
+#: components/Banner/Banner
+msgid "Back"
+msgstr "Înapoi"
+
+#. Default: "Customize Privacy Settings"
+#: components/IfConfirm/IfConfirm
+msgid "Customize Privacy Settings"
+msgstr "Personalizați setările de confidențialitate"
+
+#. Default: "Privacy Notice"
+#: components/Banner/Banner
+msgid "Privacy Notice"
+msgstr "Notificare de confidențialitate"
+
+#. Default: "Privacy Notice Change"
+#: components/Banner/Banner
+msgid "Privacy Notice Change"
+msgstr ""
+
+#. Default: "Privacy Policy"
+#: components/Banner/Banner
+msgid "Privacy Policy"
+msgstr "Politica de Confidențialitate"
+
+#. Default: "Reject all cookies"
+#: components/Banner/Banner
+msgid "Reject all cookies"
+msgstr ""
+
+#. Default: "Save"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Save"
+msgstr "Salvează"
+
+#. Default: "Technically required"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Technically required"
+msgstr "Cookie-uri strict necesare din punct de vedere tehnic"
+
+#. Default: "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+#: components/Banner/Banner
+msgid "To give you the best possible user experience, we use cookies on our website. Cookies required for the operation of the site are set automatically. You can also allow other cookies. You can {agree_all_cookies} or {adjust_privacy_settings}."
+msgstr "Pentru a vă oferi cea mai bună experiență posibilă, folosim cookie-uri pe site-ul nostru. Cookie-urile necesare pentru funcționarea site-ului sunt setate automat. De asemenea, puteți permite alte cookie-uri. Puteți selecta {agree_all_cookies} sau {adjust_privacy_settings}."
+
+#. Default: "Tracking"
+#: components/Banner/Banner
+#: components/Block/View
+msgid "Tracking"
+msgstr "Măsurare și analiză"
+
+#. Default: "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+#: components/Banner/Banner
+msgid "You can find more information on the used cookies and how you can subsequently revoke your consent in our"
+msgstr "Puteți găsi mai multe informații despre cookie-urile utilizate și cum vă puteți revoca ulterior consimțământul în pagina noastră"
+
+#. Default: "adjust the privacy settings"
+#: components/Banner/Banner
+msgid "adjust the privacy settings"
+msgstr "ajustați setările de confidențialitate"
+
+#. Default: "agree to all cookies"
+#: components/Banner/Banner
+msgid "agree to all cookies"
+msgstr "sunt de acord cu toate cookie-urile"
+
+#. Default: "This content is provided by a third-party service. To view it, please allow cookies for {module} in your privacy settings."
+#: components/IfConfirm/IfConfirm
+msgid "dsgvoOverlayMessage"
+msgstr "Nu puteți vizualiza acest conținut în acest moment deoarece ați selectat să dezactivați cookie-urile {module} în setările de confidențialitate."
